@@ -1,0 +1,16 @@
+body {
+    background-image: url("assets/danau.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+
+}
+
+
+h1 {
+    font-family:"garamond",cursive;
+    font-weight: 500;
+    font-style: normal;
+
+
+}
